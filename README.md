@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RaushanGupta1516
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Raushan Gupta
+- 👀 I’m interested in programming and solving problems
 - 🌱 I’m currently learning webdevelopment & dsa
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me  Twitter-- @RaushanGupta_16
