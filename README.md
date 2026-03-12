@@ -197,7 +197,7 @@ $ cat achievements.log
 <br/>
 
 [![Twitter](https://img.shields.io/badge/@RaushanGupta__16-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RaushanGupta_16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan-gupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushangupta16/)
 
 </div>
 
