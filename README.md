@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan-gupta)
+[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raushangupta16/)
 [![Gmail](https://img.shields.io/badge/─────%20Email%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.raushangupta@gmail.com)
 [![Twitter](https://img.shields.io/badge/─────%20Twitter%20─────-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RaushanGupta_16)
 
