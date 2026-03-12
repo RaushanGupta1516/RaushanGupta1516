@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+real+products+with+MERN+stack;React+%7C+Node.js+%7C+MongoDB+%7C+Express;400%2B+DSA+problems+solved;Open+to+SDE+Internships+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+real+products+with+MERN+stack;React+%7C+Node.js+%7C+MongoDB+%7C+Express;400%2B+DSA+problems+solved;Open+to+SDE+Internships+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@ const raushan: Developer = {
   university: "Galgotias University",
   gpa:        8.6 / 10.0,
   stack:      ["React", "Node.js", "Express", "MongoDB"],
-  status:     "🟢 Open to Internships (2025)",
+  status:     "🟢 Open to Internships (2026)",
   contact:    "work.raushangupta@gmail.com",
 };
 ```
@@ -87,8 +87,10 @@ const raushan: Developer = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 <br/>
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-22c55e?style=flat-square)](https://stay-story-client.onrender.com/)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-1a1a1a?style=flat-square&logo=github)](https://github.com/RaushanGupta1516/Stay-Story)
+
+[🔗 Live Demo](https://stay-story-client.onrender.com/) &nbsp;&nbsp; [📁 Source Code](https://github.com/RaushanGupta1516/Stay-Story)
+
+<br/>
 
 ### ◈ &nbsp; FoodOrder &nbsp;—&nbsp; Full-Stack Food Ordering Platform
 
@@ -115,8 +117,9 @@ const raushan: Developer = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Render](https://img.shields.io/badge/Render-1a1a1a?style=flat-square&logo=render&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-22c55e?style=flat-square)](https://food-delivery-page-frontend.onrender.com/)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-1a1a1a?style=flat-square&logo=github)](https://github.com/RaushanGupta1516/FOOD-DELIVERY-PAGE)
+<br/>
+
+[🔗 Live Demo](https://food-delivery-page-frontend.onrender.com/) &nbsp;&nbsp; [📁 Source Code](https://github.com/RaushanGupta1516/FOOD-DELIVERY-PAGE)
 
 ---
 
@@ -151,11 +154,12 @@ const raushan: Developer = {
 ```bash
 $ cat achievements.log
 
-[2024] ✦  Selected → Smart India Hackathon (SIH) Pre-Qualifier
-[2024] ✦  Solved 400+ DSA problems — LeetCode + Codeforces
-[2024] ✦  Shipped StayStory → Live full-stack MERN app in production
-[2024] ✦  Shipped FoodOrder → Stripe-integrated app, live on Render
-[2024] ✦  Daily AI-powered workflow — Claude, Cursor, Copilot
+[2026] ✦  Open to SDE / Full-Stack Internships — remote or onsite
+[2025] ✦  Selected → Smart India Hackathon (SIH) Pre-Qualifier
+[2025] ✦  Solved 400+ DSA problems — LeetCode + Codeforces
+[2025] ✦  Shipped StayStory → Live full-stack MERN app in production
+[2025] ✦  Shipped FoodOrder → Stripe-integrated app, live on Render
+[2025] ✦  Daily AI-powered workflow — Claude, Cursor, Copilot
 ```
 
 ---
@@ -163,13 +167,14 @@ $ cat achievements.log
 ## `~/currently-learning`
 
 <br/>
+
 ```json
 {
-  "TypeScript":     "Adding strict types across MERN projects",
-  "Next.js":        "SSR, SSG, App Router — moving beyond CRA",
-  "React Native":   "Cross-platform mobile with existing React skills",
-  "Docker":         "Containerizing apps for consistent deploys",
-  "System Design":  "Scaling beyond single-server architecture"
+  "TypeScript":    "Adding strict types across MERN projects",
+  "Next.js":       "SSR, SSG, App Router — moving beyond CRA",
+  "React Native":  "Cross-platform mobile with existing React skills",
+  "Docker":        "Containerizing apps for consistent deploys",
+  "System Design": "Scaling beyond single-server architecture"
 }
 ```
 
